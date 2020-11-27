@@ -58,7 +58,7 @@ namespace GenerateSqlScripts
                 "db" => ProgramArg.DbName,
                 "u" => ProgramArg.DbUsername,
                 "pw" => ProgramArg.DbPassword,
-                "win-auth" => ProgramArg.UseWindowsAuth,
+                "integrated" => ProgramArg.UseWindowsAuth,
                 _ => null
             };
     }
