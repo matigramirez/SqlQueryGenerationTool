@@ -1,0 +1,7 @@
+# Visual Studio / JetBrains Rider folders
+.vs/
+.idea/
+
+# .NTE Core output folders
+bin/
+obj/
